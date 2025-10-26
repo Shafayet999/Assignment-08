@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/wUZp2gNvX3mLkmzhq2FyTVSwRdtfWC-Fcx0lt8Xo1TxufvThvbAxgty7WpfARX6tLMxG=w240-h480-rw",
+    "title": "TaskMaster Pro",
+    "companyName": "NovaSoft",
+    "id": 1,
+    "description": "Boost your productivity with smart task organization and reminders.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61S4kYNKEXL._SL1500_.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthWave",
+    "id": 2,
+    "description": "Track workouts, monitor health, and stay motivated.",
+    "size": 70,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvv4Kbaktl4eABqhsYuDAwT27-K0wMRf0b6Q&s",
+    "title": "TravelGo",
+    "companyName": "Skyline Apps",
+    "id": 3,
+    "description": "Plan trips, book hotels, and explore destinations.",
+    "size": 86,
+    "reviews": 450,
+    "ratingAvg": 4.1,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 130 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yUnv17GIWA4AiiT2pPO7xDMJ4tpM8Y-Gsg&s",
+    "title": "PhotoCraft Studio",
+    "companyName": "PixelArt Ltd",
+    "id": 4,
+    "description": "A professional photo editor with AI enhancement tools.",
+    "size": 98,
+    "reviews": 5200,
+    "ratingAvg": 4.4,
+    "downloads": 1.2,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 1940 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Up0wthTwLgxGVR5BD5-Qx8avKUJEsMiieAncq1iPmZLNdHXVZEYLnSCDfHZfo9wiIQ",
+    "title": "NoteBox",
+    "companyName": "WriteRight",
+    "id": 5,
+    "description": "Quick note-taking with sync across all devices.",
+    "size": 34,
+    "reviews": 2200,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 970 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Nv7IKTZZdVa_Bhx2dY45V0kVWTupb8UyTzI9BovC3aw8gpx6xU3K8J55SNysvNXUng=w240-h480-rw",
+    "title": "MindRelax",
+    "companyName": "CalmWorld",
+    "id": 6,
+    "description": "Meditation and breathing exercises for better sleep.",
+    "size": 60,
+    "reviews": 4600,
+    "ratingAvg": 4.8,
+    "downloads": 1.4,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 2420 }
+    ]
+  },
+  {
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_l0BZC9XQIqZPxYB5gzo-6EW7Yw6jqDZRmVbYfJtMp-wA=s900-c-k-c0x00ffffff-no-rj",
+    "title": "EduKid",
+    "companyName": "SmartLearn",
+    "id": 7,
+    "description": "Fun learning games for children ages 4-10.",
+    "size": 123,
+    "reviews": 600,
+    "ratingAvg": 4.0,
+    "downloads": 4.1,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 140 }
+    ]
+  },
+  {
+    "image": "https://budgetwisestore.com/wp-content/uploads/2024/05/budgetwise-logo-square.jpg?w=200",
+    "title": "BudgetWise",
+    "companyName": "FinanceHub",
+    "id": 8,
+    "description": "Manage money, track spendings and grow savings.",
+    "size": 55,
+    "reviews": 3300,
+    "ratingAvg": 4.3,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 920 }
+    ]
+  },
+  {
+    "image": "https://www.shutterstock.com/image-vector/news-flash-grunge-rubber-stamp-260nw-237307282.jpg",
+    "title": "NewsFlash",
+    "companyName": "DailyByte",
+    "id": 9,
+    "description": "Stay updated with real-time news and alerts.",
+    "size": 40,
+    "reviews": 8000,
+    "ratingAvg": 4.2,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuwxBsrn6olrVohBi7_E36buacNmco_oUr0A&s",
+    "title": "GigaDrive",
+    "companyName": "CloudBox",
+    "id": 10,
+    "description": "Secure cloud storage with fast file sharing.",
+    "size": 95,
+    "reviews": 2700,
+    "ratingAvg": 4.4,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 710 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTW6iOTlwhn90--aeo5gX9N4zDizdZxXeLQ&s",
+    "title": "ChefMate",
+    "companyName": "Foodify",
+    "id": 11,
+    "description": "Discover recipes and manage grocery lists.",
+    "size": 88,
+    "reviews": 1700,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 710 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/hMHfYEuTdtFZ7k_DCuwQw2NXuwzzADQ-ZNiHYY0Ox5WC5lE0Eg8kddCYI4ggOvOR-A",
+    "title": "SecurePass",
+    "companyName": "GuardTech",
+    "id": 12,
+    "description": "Password manager with strong encryption.",
+    "size": 28,
+    "reviews": 3200,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1540 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopqCl7e60ZTayLv0O2VJOwkMUkroE63xbaA&s",
+    "title": "GameBoost",
+    "companyName": "HighFrame",
+    "id": 13,
+    "description": "Optimize device performance for gaming.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.1,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 650 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 730 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/En92if6ATQKBgE13hulFkqRVZ-fvX28gOR-a-sjPXEXys8bJ8H-0wt1UZCOJiuwraw",
+    "title": "CryptoWatch",
+    "companyName": "CoinLogic",
+    "id": 14,
+    "description": "Track crypto markets live with portfolio support.",
+    "size": 51,
+    "reviews": 7800,
+    "ratingAvg": 4.3,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 560 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3060 }
+    ]
+  },
+  {
+    "image": "https://i.etsystatic.com/16327816/r/il/e88b23/3573714296/il_fullxfull.3573714296_amuf.jpg",
+    "title": "SpeakEasy",
+    "companyName": "LinguaTech",
+    "id": 15,
+    "description": "Learn languages using voice interaction.",
+    "size": 65,
+    "reviews": 2400,
+    "ratingAvg": 4.6,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 920 },
+      { "name": "5 star", "count": 990 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/bui0oche_pQZij2DP5kw1kd3JxvURbzq-aDL8xDqvkZ_48a7S_aVyhOQmupFK6WxRFy-",
+    "title": "WeatherOne",
+    "companyName": "EcoSoft",
+    "id": 16,
+    "description": "Accurate weather forecast with live radar.",
+    "size": 43,
+    "reviews": 9500,
+    "ratingAvg": 4.4,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRg96rABbXMqngXZm6-8G7rI2YGKOT2kMIg&s",
+    "title": "DriveSafe",
+    "companyName": "RoadGuard",
+    "id": 17,
+    "description": "Navigation with real-time traffic alerts.",
+    "size": 110,
+    "reviews": 4500,
+    "ratingAvg": 4.2,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/72/2c/32/722c322bd755aea6d49d818695a18c05.jpg",
+    "title": "MusicWave",
+    "companyName": "SoundSprint",
+    "id": 18,
+    "description": "Stream music with personalized playlists.",
+    "size": 150,
+    "reviews": 19000,
+    "ratingAvg": 4.7,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/116Z-EDYe8MSkwnBlBetqphbZyMoPPuygAy0nF-A8RK4xqsL-1lGKw4_eGfLTkDI2Ds=w240-h480-rw",
+    "title": "ArtDraw",
+    "companyName": "CreativePixels",
+    "id": 19,
+    "description": "Sketch and paint with digital brushes.",
+    "size": 102,
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/fXkCDDweRhUM5rOJ8z1jFRstUisQJNLubPNFYldI0YEbS_gBM3RVvqvXoDvD0eZ1FQ",
+    "title": "QuickScan",
+    "companyName": "ScanPro",
+    "id": 20,
+    "description": "Documents scanning and PDF converter.",
+    "size": 33,
+    "reviews": 5200,
+    "ratingAvg": 4.6,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 1810 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefpqYj_H14ERcGInFIx4oNzJNTA65t2XyTg&s",
+    "title": "ShopEase",
+    "companyName": "E-Com Labs",
+    "id": 21,
+    "description": "Compare prices and find the best deals.",
+    "size": 80,
+    "reviews": 9100,
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/aEFl_RcEcYeBZMFXT9q9eEbbpLSBpAOU5i2uC22eScZAZBmCYMRH_xfV5YIxqw97HUE",
+    "title": "FitConnect",
+    "companyName": "GymTech",
+    "id": 22,
+    "description": "Community fitness challenges and coaching.",
+    "size": 67,
+    "reviews": 1600,
+    "ratingAvg": 4.3,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrOLWrYpK6svs6UaMJwVubbutSKQ6NSdphQ&s",
+    "title": "DailyQuotes",
+    "companyName": "BrightWords",
+    "id": 23,
+    "description": "Motivational quotes every day.",
+    "size": 20,
+    "reviews": 2300,
+    "ratingAvg": 4.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1570 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq1IaJwZZmLg1rnQnFSdlXSSlNG4TCpU1kw&s",
+    "title": "LearnCode",
+    "companyName": "TechEdu",
+    "id": 24,
+    "description": "Interactive coding tutorials for beginners.",
+    "size": 75,
+    "reviews": 7700,
+    "ratingAvg": 4.6,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3770 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJ7Nw6EBZ7SQqW2M8Rj8MVDvOp58DEJY7jg&s",
+    "title": "TimeZoneHub",
+    "companyName": "GlobalTech",
+    "id": 25,
+    "description": "World clock and time zone converter.",
+    "size": 32,
+    "reviews": 510,
+    "ratingAvg": 4.3,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 80 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEj6a4ru3UZDR5IQdfPijE-QPI0QnHanGgWA&s",
+    "title": "FlashLearn",
+    "companyName": "EduSpark",
+    "id": 26,
+    "description": "Flashcards and spaced repetition learning.",
+    "size": 55,
+    "reviews": 1400,
+    "ratingAvg": 4.5,
+    "downloads": 2,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/lSwAXnw8Fdz1yUHBgzO2IM-DUE6uLth_EW-skSbl2wxW4j2DaTEplSisLuQbhKESaQ",
+    "title": "QuickTranslate",
+    "companyName": "LinguaAI",
+    "id": 27,
+    "description": "Translate text and speech instantly.",
+    "size": 49,
+    "reviews": 9900,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 3200 }
+    ]
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/05/83/61/82/360_F_583618203_CwsMPkc6yoMBLOWsqD4doSyzedqI2qz5.jpg",
+    "title": "PetCare",
+    "companyName": "HappyPets",
+    "id": 28,
+    "description": "Track your pet’s health and reminders.",
+    "size": 42,
+    "reviews": 650,
+    "ratingAvg": 4.4,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 170 }
+    ]
+  }
+]
